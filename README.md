@@ -2,10 +2,12 @@
 <h3 align="center">Enhancing Software Delivery with Robust DevOps Practices</h3>
 
 - ☁️ DevOps Engineer
-- 🌐 Core Competencies:
-Cloud Services: AWS (EC2, S3, RDS, Lambda), Azure, GCP
-Security: IAM, VPC, security groups, compliance monitoring
-DevOps Tools: Jenkins, GitLab CI/CD, Docker, Kubernetes
+- 
+🌐 Core Competencies:
+Cloud Services:   AWS (EC2, S3, RDS, Lambda), Azure, GCP
+Security:         IAM, VPC, security groups, compliance monitoring
+DevOps Tools:     Jenkins, GitLab CI/CD, Docker, Kubernetes
+
 🌱 Currently Learning: Deepening knowledge in cloud security and zero-trust architecture.
 🛠️ Favorite Tools: Terraform, Ansible, Vault, CloudFormation, Datadog
 
