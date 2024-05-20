@@ -2,7 +2,7 @@
 <h3 align="center">Enhancing Software Delivery with Robust DevOps Practices</h3>
 
 - ☁️ DevOps Engineer
-- 
+
 🌐 Core Competencies:
 Cloud Services:   AWS (EC2, S3, RDS, Lambda), Azure, GCP
 Security:         IAM, VPC, security groups, compliance monitoring
