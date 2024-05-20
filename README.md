@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krushang Vankawala</h1>
-<h3 align="center">connect me on LinkedIn</h3>
+<h3 align="center">Enhancing Software Delivery with Robust DevOps Practices</h3>
 
 - 🌱 I’m currently learning **DevOps**
 
